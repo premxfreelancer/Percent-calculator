@@ -1,1 +1,1 @@
-percentcalculator.netlify.app
+https://percentcalculator.netlify.app
